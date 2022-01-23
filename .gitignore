@@ -1,0 +1,8 @@
+logs/
+../.idea/
+.pytest_cache/
+__pycache__
+.vscode
+metastore_db/
+derby.log
+venv
